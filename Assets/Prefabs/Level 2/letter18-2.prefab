@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 1927563505195460220}
   - component: {fileID: 559843739151158496}
   m_Layer: 5
-  m_Name: phone
+  m_Name: letter18-2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -66,7 +66,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c2ff42164af556944976a24d167609c1, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d7ca128d2906e2142b903957bf2eb9ff, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -140,8 +140,8 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
-  m_PlayOnAwake: 1
+  m_audioClip: {fileID: 8300000, guid: 6e9fbd72ea688bb4b81efb259f7bd1ee, type: 3}
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
