@@ -18,4 +18,16 @@ public class home : MonoBehaviour
     {
         SceneManager.LoadScene(0);
     }
+    public void exit()
+    {
+        Application.Quit();
+    }
+    public void level2()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
+    }
+    public void level3()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 3);
+    }
 }
